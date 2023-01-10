@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcBillingClient", "GrpcBillingClient\GrpcBillingClient.csproj", "{51B16CEA-FF80-4F9A-B7B5-C1D0AD34AD96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B16CEA-FF80-4F9A-B7B5-C1D0AD34AD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B16CEA-FF80-4F9A-B7B5-C1D0AD34AD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B16CEA-FF80-4F9A-B7B5-C1D0AD34AD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B16CEA-FF80-4F9A-B7B5-C1D0AD34AD96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {222DE110-5896-4B84-AAEE-7945F79EB61B}
+	EndGlobalSection
+EndGlobal
